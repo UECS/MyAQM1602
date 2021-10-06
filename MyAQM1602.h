@@ -1,11 +1,10 @@
-//MyAQM1602 LCD Library
-//AQM1602‰t»•\Ž¦—pŠî–{ƒ‰ƒCƒuƒ‰ƒŠ
-//Arduino—p
-//ŠJ”­FUECSŒ¤‹†‰ï
+//AQM1602æ¶²æ™¶è¡¨ç¤ºç”¨åŸºæœ¬ãƒ©ã‚¤ãƒ–ãƒ©ãƒª
+//Arduinoç”¨
+//é–‹ç™ºï¼šUECSç ”ç©¶ä¼š
 //Ver1.0 2021/10/6
-//‚±‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ÍArduno•W€ƒ‰ƒCƒuƒ‰ƒŠ‚ª‚ ‚ê‚Î’P‘Ì‚Å‚àŽg—p‚Å‚«‚é
+//ã“ã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã¯Ardunoæ¨™æº–ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãŒã‚ã‚Œã°å˜ä½“ã§ã‚‚ä½¿ç”¨ã§ãã‚‹
 /*
-ƒ‰ƒCƒZƒ“ƒX
+ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
 CC BY 4.0
 https://creativecommons.org/licenses/by/4.0/
 You are free to:
